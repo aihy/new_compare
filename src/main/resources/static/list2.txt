@@ -1,0 +1,209 @@
+算了 还是直接学swift的应用，毕竟我只在mac下工作
+学一下websocket
+此路径为方便jar包外替换，写死为绝对路径
+招聘的事情
+在dns污染的情况下，如何测速，如何下载到最新节点信息
+sls为什么数量对不上
+优化提升word-search
+更新mapping.json的流程
+找一下 西门子洗衣机的延长保修单
+工作效率提升
+一个问题：拿到一个request id，在dip-api日志里能查到，在request 日志里查不到，这样也找不到机器，也找不到详细日志
+学习bash
+看一下一体机国寿api
+做一个mac版的everything
+整理信用卡 刷免
+凤凰要买兴趣分？兴趣分迁移到预付费
+问安全生产怎么用 文档在哪
+uweb的事情
+检查各大行最近活动，以后每月检查一次，得出最佳刷卡结论
+wg笔记整理到博客，wg给韩晔电脑搞一个
+看一下api业务表怎么存，要不要迁移，dop申请权限
+数擎api，计费控制的rdb迁移，升级到rdb3.0，再做数据库同步
+问题：返回400的请求，在业务日志里没有任何输出，无法排查
+看一下Lindorm老付申请的两个项目，干什么用的
+研究刚需用处，研究优惠
+做一个斗地主AI
+整理语音备忘录、备忘录、文件、照片、书签
+更新吞吐率脚本
+阅读rsync bt 源码
+工作技术研究
+我现在在学习构建技术maven，接下来我需要学习测试技术
+调整天通苑翻墙方法
+knative是啥
+读书：spring企业应用开发
+研究回滚失效
+redis迁移，API库存
+应用发布时，有安全扫描中心的扫描漏洞
+温湿度报表
+做一个定投日志页面
+数擎一体机
+7. 博客（养猫，java企业应用开发笔记，前端学习
+研究整理一体机项目
+学习高等数学
+完善java sdk 加上连接池
+各位好，当前还需支持下，oplus2018的主ak LTAI4GEGiJPXePrV63zLSzbz 当前在关联应用被使用，这块需要各位确认，如有使用，需要申请统一子账号，并迁移到子账号，主账号按照集团要求需要进行禁用。
+什么时候看美国新闻？
+给qittorrent配置一个自动启动服务
+应急预案
+约点众那边的人，把点众api迁移过来
+6. 党建积分 自动积分（fa米粒，ttg
+搞一个可以把黄治宪家里和我家里连起来的内网vpn
+需要细细的整理语雀文档，需要安排时间，专门做文档
+测试新意互动，流程、监控、计量、计费
+监控每个月用多少汽车流量，双十一买流量包
+研究java8，java6
+头好疼，家里空气净化、热水器要定时远程开启，开窗等
+把家里楼上楼下温度湿度记录下来，画成监控图表
+每天早晨清理一页downloads
+阿里云网关迁移专有集群，pop网关
+收拾桌子
+添加到iphone homekit：单元门禁，防盗门，车门，县医院门禁，摄像头，客厅灯，空调，红外线（空气净化器）
+整理一下一体机poc流程
+数擎API
+用gawana监控nas
+做一个文件搜索服务器，快速定位、搜索文件，查看目录大小
+急需时间：整理、学习、运动
+2. 常用工具小程序/网站（热量计算，xirr计算
+研究shiro
+做一个五子棋AI
+整理小本本
+uapp api 迁移
+搞一个qbit服务，自动开启
+必须赶紧学一下java8了，还要系统学习一下java6
+做PAI的接口，把数据同步到灵动，https://dmc.dw.alibaba-inc.com/dm/table/odps.ump_fusion.ump_pai_score_predict_result/detail/col#/
+fbi做一个 统计量的，做一个统计延迟的，最好能每分钟同步
+知乎没有推量的问题，解决一下
+搞csrf
+学习java doc
+研究utf8
+做一个api通用接口文档
+记得优化一下广发api私有化
+计费的流程，梳理一下
+阅读you-get源码
+知乎一直没有撞库
+https://developer.apple.com/tutorials/app-dev-training#resources
+web ide的热部署
+整理大唐材料
+穿衣，带伞，汽车限号，提醒
+uweb黑名单的oss需要加上生命周期
+研究一下上次旷世的比赛题目
+ss测速
+非工作技术研究
+看来ios开发不是瞬间能速成的，我还是老老实实花12.5小时吧
+把downloads目录备份到 云
+赶紧学一下maven
+图画清楚智能认证和银行API功能模块图
+博客文章：家庭网络设置，配置iptv
+客户一买API，钉钉就发个推送，比较好
+研究log
+指定健身、读书、睡眠计划
+迁移到独立网关，去调8MB限制
+抽空看下华蹊的aone https://aone.alibaba-inc.com/v2/project/1035122/bug/40296257
+批量补数 红旗
+输入输出整理一份给小马哥
+什么时候读书？kindle里的小说，nas里的书，工位上的书
+把小电脑插上，整理一下icloud
+总结使用鹰眼id
+修一下家里Wi-Fi
+企业认证的redis改一下生命周期
+抓紧学习 bash zsh
+广发银行5689信用卡注销，需要12月15日才能注销
+把这个目录排除掉 /Users/zihao_wang/Library/Caches
+研究一下红黑树
+um_dip-api 为什么没有业务日志
+学单测
+整理
+研究mac的内置软件 vpnd httpd diskutils等等
+原来知学开发的后付费计费流程，需要整理一下，应该可以关上了，全走预付费
+做一个软件，检索file_list.csv，做成服务端、客户端的
+知乎的appkey，改一下，改正确
+布隆过滤器
+维护jmule
+修复漏洞https://stc.alibaba-inc.com/leak-scan/?spm=a1z3jw.map.vulDetailPage.6.5cc15644oCinb3#/defect/list/detail/27892704/1352284977?mode=1
+个人认证调研
+练打字，安排一段时间
+写一个量化投基金的，模拟收益率
+点众api迁移
+学习hbase
+一体机金融版验收，给排期，开搞https://yuque.antfin-inc.com/docs/share/c7eb7c4d-1ce0-4b79-9f36-70fdf1e1f9d1?#
+客群画像的计费计量，看一下，现在推量应该是没有
+兴趣分有一些问题
+研究dht，kad，ipfs
+运营我的博客
+搞一个远程开机，开windows
+拿牛肉干来公司
+内部课程 星丛给的
+学习感兴趣技术，制定计划，安排时间
+做一个目录比较工具，比较目录，用md5
+线索评级，手机号，30个的限制，需要加上
+总结一下线程池，Executors.newCachedThreadPool();里面方法的作用，为什么要线程池
+给徐水装防臭地漏
+企业认证收尾
+看富人阶级的传记，跳出我的视野
+远程开发，连家里的windows
+再自查一下红旗项目API
+把不用的卡注销了
+花时间，细细研究一下单测
+http java 发请求 总结下 gzip 总结下 文件操作 总结下
+国寿api限制还没加，需要准备文档，国寿新加的需求
+研究热部署的原理
+制作投资网页
+学一下面向对象思想
+写ss测速脚本
+杂项
+完整梳理红旗整体
+beanutils看一下
+系统学习ieda
+后付费调用量限制 提高
+研究一个 用手机在公司就能打开单元门的东西
+个人成长
+兴趣分的sls日志被截断了
+grafana机器监控
+研究自定义java异常
+研究研究分形图形
+数据库各种写法，on duplicated ，索引原理等
+需要提升：在一个任务需要等待的时候，比如需要等审批、需要等IDE处理，或者在发布，等等时候，干什么，我不能卡住，单线程效率太低了
+总结切面
+看一下缓存map
+研究ipfs
+家务
+做hmc，nas视频收看软件
+怎么快速把光盘转成文件
+license的问题 https://protex.alibaba-inc.com/leak-scan/#/scan/legalList
+个人项目
+java cache详解
+做一个投资理财网站
+maven autoconfig git系统看一下
+做一个文件快速传输分享软件，考虑ipfs
+安卓机薅羊毛
+新api客户接入流程，自动化
+学一下htop怎么用
+fa米粒签到
+研究redis等各种数据库怎么连
+研究一下springboot websocket
+库存现在需要优化一下，一个是不好管理，一个是tair一旦崩了我就崩了
+首先需要学习：java spring pgsql redis linux bash docker
+博客可以写：log框架的研究
+把客群画像vip改成线上vip，再测一下
+迁移API网关到正式集群
+ata文章：java log python log深入剖析
+梳理一下list.compare相关内容
+需要能根据request id 查询两机器ip，eagle id
+目前新客户接入沟通成本高，需要整理出新客户接入文档，embedding
+3. 基金跟踪，投资理财方案计算
+薅羊毛
+https://s.alibaba-inc.com/#/contentSecurity/list
+买音箱线，弄数字电视vlan，测Wi-Fi覆盖率，买空调盖，买暖气盖
+记录北一区房价
+总结api耗时优化
+研究nginx转发 代理 apache2 https
+学习本科及研究生计算机课程
+把光盘收拾好
+dns污染怎么解决？
+uweb 黑名单 gzip 需要做
+兴趣分新增预付费
+所有api都要接入后审计的链路
+整理nas文件
+官网主站
+hmc
