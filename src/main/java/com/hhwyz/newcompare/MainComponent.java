@@ -39,7 +39,7 @@ public class MainComponent {
     public GetDTO get() {
         int size = lilyList.size();
         for (int i = 0; i < size; i++) {
-            if (lilyList.get(i).size() > 5) {
+            if (lilyList.get(i).size() > 10) {
                 GetDTO getDTO = new GetDTO();
                 getDTO.setIndex(i);
                 getDTO.setThisList(lilyList.get(i));

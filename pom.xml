@@ -58,7 +58,7 @@
 				<version>3.0.0</version>
 				<configuration>
 					<to>
-						<image>registry.cn-hangzhou.aliyuncs.com/hhwyz/new_compare:1.0.2</image>
+						<image>registry.cn-hangzhou.aliyuncs.com/hhwyz/new_compare:1.0.5</image>
 					</to>
 				</configuration>
 			</plugin>
